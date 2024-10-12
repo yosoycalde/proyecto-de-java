@@ -9,4 +9,15 @@ const pi = 3.1416;
  let decimal = 3.1416;
 //string = texto
 let pregunta = "¿Que hora es?"
-let respuesta = 'son '
+let respuesta = 'son las 4 pm'
+ 
+//boolean
+let esMayordeedad = true;
+let tienepermiso = false;
+
+//undefine
+let valor;
+console.long(valor); //undefine
+
+//null
+let nota = null;
