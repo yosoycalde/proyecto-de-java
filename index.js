@@ -5,8 +5,10 @@ const pi = 3.1416;
 
 // tipos de datos
 //numeros
+
  let entero = 10;
  let decimal = 3.1416;
+
 //string = texto
 let pregunta = "¿Que hora es?"
 let respuesta = 'son las 4 pm'
@@ -21,3 +23,7 @@ console.long(valor); //undefine
 
 //null
 let nota = null;
+hola
+
+
+
