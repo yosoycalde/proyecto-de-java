@@ -1,18 +1,18 @@
-// tipos de variables 
-// var numero =4; = no se utiliza por actualizar 
+// tipos de variables
+// var numero =4; = no se utiliza por actualizar
 let saludo = "saludo";
 const pi = 3.1416;
 
 // tipos de datos
 //numeros
 
- let entero = 10;
- let decimal = 3.1416;
+let entero = 10;
+let decimal = 3.1416;
 
 //string = texto
-let pregunta = "¿Que hora es?"
-let respuesta = 'son las 4 pm'
- 
+let pregunta = "¿Que hora es?";
+let respuesta = "son las 4 pm";
+
 //boolean
 let esMayordeedad = true;
 let tienepermiso = false;
@@ -23,7 +23,13 @@ console.long(valor); //undefine
 
 //null
 let nota = null;
-hola
 
-
-
+let persona = {
+  nombre: "juan",
+  edad: 30,
+  estrabajador: true,
+  habilidades: {
+    produccion: 5.0,
+    empaque: 3.0,
+  },
+};
