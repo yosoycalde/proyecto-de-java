@@ -1,3 +1,4 @@
+//camel
 // tipos de variables
 // var numero =4; = no se utiliza por actualizar
 let saludo = "saludo";
@@ -33,3 +34,5 @@ let persona = {
     empaque: 3.0,
   },
 };
+let numero = [1, 2, 3, 4, 4, 5, 6, 5, 67, 0];
+let frutas = ["manzanas", "peras", "sandia"];
