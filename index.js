@@ -71,3 +71,12 @@ numeros += 3; //equiovale numero 8
 //  resta y asignan
 
 numeros -= 2; //equivale a numeero 3
+
+//operadores de compararcion
+
+//igualdad debil ==
+
+let resultado = 5 == "5"; //true
+
+//igualdad estricta ===
+resultado = 5 === 5;
