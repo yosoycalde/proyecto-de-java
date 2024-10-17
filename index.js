@@ -67,5 +67,7 @@ let numeros = 5;
 
 // suma y aigna
 numeros += 3; //equiovale numero 8
+
 //  resta y asignan
+
 numeros -= 2; //equivale a numeero 3
