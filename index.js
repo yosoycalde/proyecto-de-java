@@ -79,4 +79,13 @@ numeros -= 2; //equivale a numeero 3
 let resultado = 5 == "5"; //true
 
 //igualdad estricta ===
-resultado = 5 === 5;
+
+resultado = 5 === 5; //true
+
+//diferencia debil !=
+
+resultado = 23 != "23"; //false
+
+// diferente estricta !==
+
+resultado = 23 !== 50; //false
