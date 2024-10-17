@@ -61,3 +61,11 @@ let divicion = 5 / 4; //1.25
 let modulo = 5 % 4;
 
 //operadores de asignacion
+// igual =
+
+let numeros = 5;
+
+// suma y aigna
+numeros += 3; //equiovale numero 8
+//  resta y asignan
+numeros -= 2; //equivale a numeero 3
