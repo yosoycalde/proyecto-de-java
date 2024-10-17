@@ -34,5 +34,27 @@ let persona = {
     empaque: 3.0,
   },
 };
+//arreglos
 let numero = [1, 2, 3, 4, 4, 5, 6, 5, 67, 0];
 let frutas = ["manzanas", "peras", "sandia"];
+
+// operadores aritmeticos
+
+//suma
+
+let suma = 5 + 4; //9
+
+// resta
+
+let resta = 5 - 4; //1
+
+//multiplicacion
+
+let multiplicacion = 5 * 4; //20
+
+//divicion
+
+let divicion = 5 / 4; //1.25
+
+//modulo
+let modulo = 5 % 4;
