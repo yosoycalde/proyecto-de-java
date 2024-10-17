@@ -89,3 +89,19 @@ resultado = 23 != "23"; //false
 // diferente estricta !==
 
 resultado = 23 !== 50; //false
+
+//mayor que >
+
+//menor que <
+
+//mayor o igual >=
+
+//menor o igual <=
+
+let esMayor = 10 > 5; //true
+
+let esMenor = 5 < 6; //true
+
+let mayorOIgual = 10 >= 5; //true
+
+let menorOIgual = 5 <= 6; //false
