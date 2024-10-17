@@ -57,4 +57,7 @@ let multiplicacion = 5 * 4; //20
 let divicion = 5 / 4; //1.25
 
 //modulo
+
 let modulo = 5 % 4;
+
+//operadores de asignacion
