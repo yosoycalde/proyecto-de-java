@@ -105,3 +105,16 @@ let esMenor = 5 < 6; //true
 let mayorOIgual = 10 >= 5; //true
 
 let menorOIgual = 5 <= 6; //false
+
+//operadores logicos
+
+// y logico &&
+
+let resultados = 5 > 3 && 7 < 10; //true
+
+//O logico ||
+
+resultados = 5 > 3 && 18 < 10; //true
+
+//No logico !
+let esFalso = !(5 > 10); //true (se invierten)
